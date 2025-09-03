@@ -22,7 +22,7 @@ Each story follows the format:
 ## File Contents
 
 This repository includes:
-- **user_stories.md** – A detailed document containing all user stories with acceptance criteria.
+- **user-stories.md** – A detailed document containing all user stories with acceptance criteria.
 
 ---
 
