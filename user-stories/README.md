@@ -34,14 +34,6 @@ This repository includes:
 
 ---
 
-## Related Documentation
-
-- [Database Schema](./schema.sql)
-- [Seed Data](./seed_data.sql)
-- [Use Case Diagram](./airbnb_use_case_diagram.drawio)
-
----
-
 ## License
 
 This project is intended for **educational and development purposes**. Please refer to the repository license for usage terms.
